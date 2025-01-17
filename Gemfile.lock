@@ -345,7 +345,7 @@ GEM
       sprockets (>= 3.0.0)
     stackprof (0.2.26)
     stringio (3.1.1)
-    stripe (10.14.0)
+    stripe (13.3.1)
     tailwindcss-rails (2.6.1-aarch64-linux)
       railties (>= 7.0.0)
     tailwindcss-rails (2.6.1-arm64-darwin)
